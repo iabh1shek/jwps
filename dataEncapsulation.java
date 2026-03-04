@@ -12,7 +12,10 @@ public class dataEncapsulation {
 
     
     String dogBreed(){
-        return breed; 
+        
+        
+
+    return breed; 
     }
     public void setBreed(String breed) {
         this.breed = breed;

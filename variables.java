@@ -7,12 +7,15 @@ public class variables {
 
     public static void main(String args[]){
         variables obj1 = new variables(); 
-
+        
 
         System.out.println("text variable " + obj1.text); 
         System.out.println("integer variable " + obj1.integer); 
         System.out.println("Boolean  " + obj1.TrueorFalse);
         System.out.println("floating-point variable" + obj1.floatingpoint);  
+        
+        
+
 
 
 
