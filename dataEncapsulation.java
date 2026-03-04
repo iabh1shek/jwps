@@ -10,6 +10,7 @@ public class dataEncapsulation {
         this.color = color; 
     }
 
+    
     String dogBreed(){
         return breed; 
     }
@@ -27,14 +28,5 @@ public class dataEncapsulation {
     }
 
 
-
-    
-
-
-
-
-
-    
-
-    
 }
+    
