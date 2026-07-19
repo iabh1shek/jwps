@@ -2,8 +2,6 @@
 
 import java.util.Scanner; 
 public class ReadingInput{
-
-
     public static void main(String args[]){
         Scanner message = new Scanner(System.in); 
         System.out.println("Enter you message here : "); 
